@@ -1,4 +1,4 @@
-# Resource: https://www.geeksforgeeks.org/python-exception-handling/
+
 
 # Example-1
 def fun(a):
@@ -64,3 +64,5 @@ try:
 except CustomException:
     print ("An exception")
     raise
+
+# Resource: https://www.geeksforgeeks.org/python-exception-handling/
