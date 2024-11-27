@@ -40,6 +40,13 @@ print(set_methods)
     'issubset', 'issuperset', 'pop', 'remove', 'symmetric_difference', 'symmetric_difference_update', 'union', 'update']
 """
 
+""" Frozen set"""
+# frozen set in Python  are immutable and can not be modified after the creation.
+fruits = frozenset(["apple", "banana", "orange"])
+print(fruits)
+fruits.add("cherry") # AttributeError
+print(fruits)
+
 """ Tuple Methods"""
 tuple_methods = get_methods(tuple)
 print(tuple_methods)

@@ -1,0 +1,35 @@
+
+Easy Concepts:
+1. Variables
+2. Data Types
+3. Functions
+4. Conditinal statements
+5. Flow control statements
+6. String Related:
+    1. Converting a string to char array
+    2. Converting a string to int array ( in case the elements in the array are integers)
+    3. Coverting a list to string
+    4. Converting a char array to string.
+    5. fstrings
+    6. Raw strings in python
+7. List Methods
+8. Set Methods and Frozen Sets
+9. Dictionary methods
+    1. Iterating over elements of a dictionary using keys and values
+    2. Nested Dictionary
+9. File Handling:
+    1. using open
+    2. using with
+    3. access specifiers for files
+10. Args and kwargs in python.
+11. Exception handling
+12. Sorted function
+    1. key param in sorted function
+13. Importing user-defined libraries.
+14. functions of os module
+15. functions of re module
+16. continue, break and pass
+17. enumerate
+18. map, reduce and filter
+19. lambda functions.
+20. List and dict comprehensions
