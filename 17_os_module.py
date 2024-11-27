@@ -34,3 +34,9 @@ print(list_dir)
 # Using os.rmdir()
 
 os.rmdir(f"{os.getcwd()}/{new_dir}")
+
+# 6. os.walk()
+file_dirs = os.walk(".", topdown=True)
+for file_dir in file_dirs:
+
+    print(file_dir)
