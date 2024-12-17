@@ -1,0 +1,57 @@
+ls -
+pwd
+cd
+mkdir
+rmdir
+rm
+cp
+mv
+touch
+file
+zip and unzip
+tar
+nano, vi and jed
+cat
+grep
+sed
+head
+tail
+awk
+sort
+cut
+diff
+tee
+locate
+find
+sudo, su, whoami
+chown
+useradd, passwd and userdel
+df
+du
+top, htop
+ps
+uname
+hostname
+time
+systemctl
+watch
+jobs
+kill
+shutdown
+ping
+wget
+curl
+scp
+rsync
+ip, ifconfig
+netstat
+traceroute
+nslookup
+dig
+history
+man
+echo
+ln
+alias
+cal
+apt dnf
